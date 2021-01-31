@@ -12,7 +12,7 @@ IEEE-754 Floating Point Protocol
 
 - floating point multiply and add
 
-Xilinx Floating-Point IP
+7x Xilinx Floating-Point IP
 
 - multiply and fused multiply-add configurations
 
